@@ -1,2 +1,2 @@
 # devops-test
-This is for testing.
+This is for testing purpose.
